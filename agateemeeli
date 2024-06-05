@@ -7,13 +7,14 @@
     <title>Você decide o futuro da IA</title>
 </head>
 <body>
-    <div class="caixa-principal">
+    <div class="caixaPrincipal">
         <h1>Você decide o futuro da IA</h1>
-        <div class="caixa-perguntas"></div>
-        <div class="caixa-alternativas"></div>
-        <div class="caixa-resultado">
-            <p class="texto-resultado"></p>
+        <div class="caixaPerguntas"></div>
+        <div class="caixaAlternativas"></div>
+        <div class="caixaResultado">
+            <p class="textoResultado"></p>
         </div>
     </div>
+    <script src="main.js"></script>
 </body>
 </html>
